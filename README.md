@@ -7,5 +7,5 @@ A la fin on doit compiler le jeu avec un cmake.
 
 
 Pour acceder a ce git clone : https://github.com/tsamalloo/nom-pendu_Swathi_Neevesha.git
-
-Pour executer le programme  : 
+Pour compiler : gcc nom_pendu_Swathi_Neevesha main.c pendu.c pendu.h
+Pour executer le programme  : ./nom-pendu_Swathi_Neevesha
