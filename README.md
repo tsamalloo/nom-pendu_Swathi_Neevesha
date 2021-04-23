@@ -5,3 +5,7 @@ Un message affichera  le nombre de coup restant si le joueur se trompe et il y a
 Dans ce jeu, il y a des niveaux e difficultes comme facile , moyen et difficile .
 A la fin on doit compiler le jeu avec un cmake. 
 
+
+Pour acceder a ce git clone : https://github.com/tsamalloo/nom-pendu_Swathi_Neevesha.git
+
+Pour executer le programme  : 
