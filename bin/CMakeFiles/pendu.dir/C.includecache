@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swathi/Documents/SE/nom-pendu_Swathi_Neevesha/include/pendu.h
+
+/home/swathi/Documents/SE/nom-pendu_Swathi_Neevesha/src/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+../include/pendu.h
+/home/swathi/Documents/SE/nom-pendu_Swathi_Neevesha/include/pendu.h
+
+/home/swathi/Documents/SE/nom-pendu_Swathi_Neevesha/src/pendu.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+../include/pendu.h
+/home/swathi/Documents/SE/nom-pendu_Swathi_Neevesha/include/pendu.h
+

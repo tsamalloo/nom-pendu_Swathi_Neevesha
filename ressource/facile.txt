@@ -1,0 +1,6 @@
+BOY
+GIRL
+JET
+LOCK
+SKY
+DRY
