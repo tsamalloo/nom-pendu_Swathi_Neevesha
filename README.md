@@ -11,10 +11,19 @@ Pour acceder a ce git clone : https://github.com/tsamalloo/nom-pendu_Swathi_Neev
 
 
 cd nom-pendu_Swathi_Neevesha
+
+
 mkdir bin
+
+
 cd bin
+
+
 cmake..
+
+
 make
+
 ...
 
 ### Executer le code et lancer le binaire
