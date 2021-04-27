@@ -9,10 +9,19 @@ A la fin on doit compiler le jeu avec un cmake.
 
 Pour acceder a ce git clone : https://github.com/tsamalloo/nom-pendu_Swathi_Neevesha.git
 
+cd nom-pendu_Swathi_Neevesha
+mkdir bin
+cd bin
+cmake..
+make
+...
 
-Pour compiler : gcc nom_pendu_Swathi_Neevesha main.c pendu.c pendu.h
+### Executer le code et lancer le binaire
+vous trouverez dans le dossier bin un executable "pendu". vous devrez se deplacer dans le dossier bin ou se trouve le binaire pendu :
+...
 
-Pour executer le programme  : ./nom-pendu_Swathi_Neevesha
+./pendu
+...
 
 ### Auteur et collaborateur 
 + *Samalloo Swathi* - Auteur - (https://github.com/tsamalloo)
