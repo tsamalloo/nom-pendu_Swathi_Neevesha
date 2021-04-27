@@ -18,10 +18,8 @@ make
 
 ### Executer le code et lancer le binaire
 vous trouverez dans le dossier bin un executable "pendu". vous devrez se deplacer dans le dossier bin ou se trouve le binaire pendu :
-...
 
 ./pendu
-...
 
 ### Auteur et collaborateur 
 + *Samalloo Swathi* - Auteur - (https://github.com/tsamalloo)
